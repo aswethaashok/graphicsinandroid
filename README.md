@@ -210,7 +210,7 @@ bg_gradient.xml
 <img width="1919" height="1079" alt="Screenshot 2025-10-30 091719" src="https://github.com/user-attachments/assets/afc443be-4ab3-4dfa-8459-2a753b47aed7" />
 
 
-### Ewecution:
+### Execution:
 
 
 https://github.com/user-attachments/assets/8af25c97-82ee-4787-bb8f-63c5d9d08481
