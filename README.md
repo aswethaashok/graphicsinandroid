@@ -205,15 +205,13 @@ bg_gradient.xml
 
 ### OUTPUT
 
-<img width="1919" height="1079" alt="Screenshot 2025-10-30 091656" src="https://github.com/user-attachments/assets/695a08c3-35de-4565-86c2-bb6dd695ad5d" />
-
-<img width="1919" height="1079" alt="Screenshot 2025-10-30 091719" src="https://github.com/user-attachments/assets/afc443be-4ab3-4dfa-8459-2a753b47aed7" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-30 101109" src="https://github.com/user-attachments/assets/720b97ac-6e26-4457-ad2d-928b0ba88e87" />
 
 
 ### Execution:
 
 
-https://github.com/user-attachments/assets/8af25c97-82ee-4787-bb8f-63c5d9d08481
+https://github.com/user-attachments/assets/37ef7345-6588-4d7b-91c4-c1a5d53b152c
 
 
 
