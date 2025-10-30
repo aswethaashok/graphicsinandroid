@@ -94,13 +94,13 @@ public class ShapeView extends View {
     private Paint textPaint;
     private Random random;
     private int[] colors = {
-            Color.parseColor("#FF6F61"),  // Coral
-            Color.parseColor("#6B5B95"),  // Purple
-            Color.parseColor("#88B04B"),  // Green
-            Color.parseColor("#F7CAC9"),  // Pink
-            Color.parseColor("#92A8D1"),  // Blue
-            Color.parseColor("#FFD700"),  // Gold
-            Color.parseColor("#40E0D0")   // Turquoise
+            Color.parseColor("#FF6F61"),  
+            Color.parseColor("#6B5B95"),  
+            Color.parseColor("#88B04B"),  
+            Color.parseColor("#F7CAC9"),  
+            Color.parseColor("#92A8D1"),  
+            Color.parseColor("#FFD700"),  
+            Color.parseColor("#40E0D0")   
     };
 
     public ShapeView(Context context) {
